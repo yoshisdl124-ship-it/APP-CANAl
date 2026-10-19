@@ -1,0 +1,6 @@
+{
+  "name": "EL CAUDALOSO - Hidráulica de Canales",
+  "description": "Suite profesional de hidráulica de canales abiertos: cálculo inverso multisección, constructor libre de secciones compuestas multi-terrazas, tirante normal y crítico, diseño óptimo, resalto y remanso.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
